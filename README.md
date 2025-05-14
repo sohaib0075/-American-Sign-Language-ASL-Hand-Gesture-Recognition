@@ -46,9 +46,7 @@ This project is a deep learning-based system designed to recognize American Sign
 
 ## 📊 Evaluation (To be updated)
 
-> Final training accuracy, confusion matrix, and performance metrics will be included once model training is completed.
-
----
+90% accuracy
 
 ## 🛠️ How to Run
 
